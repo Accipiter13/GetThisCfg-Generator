@@ -37,4 +37,6 @@ Multiple *Sample Name* can be set, but you need to configure the *Match Type* an
 
 ## License
 
+The name DFIR ORC and the associated logo belongs to ANSSI.
 The content of this repository is avaliable under the [Unlicense license](./LICENSE), and as such, is released as part of the public domain.
+
